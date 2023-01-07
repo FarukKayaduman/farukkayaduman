@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Faruk
-#### Mobile Game Development
+#### Game Development
 #
-🎮 I'm Faruk from Turkey and interested in hyper-casual mobile games. I'm currently learning how to develop mobile games on Unity Engine using C# programming language.</br>
+🎮 I'm Faruk from Turkey and interested in developing mobile games. Using Unity Engine with C#.</br>
 [<img alt="farukkayaduman@outlook.com" align="right" width="300px" src="https://img.shields.io/badge/farukkayaduman@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:farukkayaduman@outlook.com)
 
 <h4 align="left">Languages and Tools:</h4>
@@ -14,8 +14,8 @@
 
 #
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farukkayaduman&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="145px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukkayaduman&layout=compact&&hide=ShaderLab,HLSL&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="145px"/>
+<img src="https://github-readme-stats.farukkayaduman.vercel.app/api?username=farukkayaduman&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="145px"/>
+<img src="https://github-readme-stats.farukkayaduman.vercel.app/api/top-langs/?username=farukkayaduman&layout=compact&&hide=ShaderLab,HLSL&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="145px"/>
 </p>
 
 [![](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarukKayaduman/)
