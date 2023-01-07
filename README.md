@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Faruk
 #### Game Development
 #
-🎮 I'm Faruk from Turkey and interested in developing mobile games. Using Unity Engine with C#.</br>
+🎯 Interested in developing mobile games.<br>
+🎮 Using Unity Engine with C#
 [<img alt="farukkayaduman@outlook.com" align="right" width="300px" src="https://img.shields.io/badge/farukkayaduman@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:farukkayaduman@outlook.com)
 
 <h4 align="left">Languages and Tools:</h4>
